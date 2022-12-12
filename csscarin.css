@@ -1,0 +1,14 @@
+*{
+    background-color: yellow;
+    font-family: Arial Black;
+}
+* {
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+img {
+	height: 300px;
+	margin: auto;
+}
